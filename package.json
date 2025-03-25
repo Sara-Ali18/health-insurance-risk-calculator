@@ -1,0 +1,12 @@
+{
+  "name": "health-insurance-risk-calculator",
+  "version": "1.0.0",
+  "description": "Web app to calculate health insurance risk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": []
+}
