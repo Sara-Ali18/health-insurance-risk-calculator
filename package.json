@@ -1,12 +1,15 @@
 {
   "name": "health-insurance-risk-calculator",
   "version": "1.0.0",
-  "description": "Web app to calculate health insurance risk",
+  "description": "A web app that calculates health risks for insurance customers based on input metrics.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Your Name",
+  "author": "Sara & Fatma",
   "license": "MIT",
-  "keywords": []
+  "dependencies": {
+    "azure-functions-core-tools": "^3.0.0"
+  }
 }

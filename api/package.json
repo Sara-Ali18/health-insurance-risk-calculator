@@ -1,0 +1,10 @@
+{
+  "name": "health-insurance-risk-calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "func start"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
